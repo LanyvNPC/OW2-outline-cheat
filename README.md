@@ -2,8 +2,8 @@
 Not made by me.
 I'm not sure but maybe developer is Korean.
 # IMPORTANT
-It is only for education and research.
-I hoped that Blizzard will quickly stop this vulnerability.
-Commercial use is prohibited.
-Do not abuse
-Plz respect my repo
+<p>It is only for education and research.</p>
+<p>I hoped that Blizzard will quickly stop this vulnerability.</p>
+<p>Commercial use is prohibited.</p>
+<p>Do not abuse</p>
+<p>Plz respect my repo</p>
